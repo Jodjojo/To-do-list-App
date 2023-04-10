@@ -1,0 +1,15 @@
+{
+	"name": "to-do-list-app",
+	"version": "1.0.0",
+	"description": "A Front-end to do list app",
+	"default": "index.html",
+	"scripts": {
+		"start": "parcel index.html",
+		"build": "parcel build index.html --dist-dir ./dist"
+	},
+	"author": "Yusuff Joseph",
+	"license": "ISC",
+	"dependencies": {
+		"parcel": "^2.8.3"
+	}
+}
