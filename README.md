@@ -13,7 +13,7 @@ This is a simple web-application created to keep track of your daily activities,
 
 ## **Installation**
 
-This web application does not require any isntallation as it is hosted on the internet and can be ran easily over the browser.
+This web application does not require any installation as it is hosted on the internet and can be ran easily over the browser.
 
 ## **Features**
 #### The major Features of this app: 
